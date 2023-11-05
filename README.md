@@ -1,4 +1,4 @@
-# Metacrafters- ETH + AVAX PROOF: Intermediate EVM Course
+# Metacrafters- ETH + AVAX PROOF: Intermediate EVM Course - Module 1
 ## Description
 
 This course teaches how to build decentralized applications (Dapps) on the Ethereum blockchain and Avalanche using the Solidity programming language.The course teaches how to create smart contracts, connect them to wallets, build a user interface, and deploy your Dapps.
